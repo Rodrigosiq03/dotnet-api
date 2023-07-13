@@ -12,6 +12,6 @@ This project was made by myself, together with a lot of researches. This API is 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://imgur.com/gallery/1BXWdT4#vitrinedev)
 
-## Detalhes do projeto
+## Details
 
 Just continue in my github for the next month, that I will post a new repo with interesting .NET stuffs
