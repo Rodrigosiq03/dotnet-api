@@ -4,8 +4,8 @@ This project was made by myself, together with a lot of researches. This API is 
 
 | :placard: .NET API REST |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Film API Rest**
-| :label: Tecnologias | c#, .NET 7.0, Asp.NET.Core, MySQL 
+| :sparkles: Name        | **Film API Rest**
+| :label: Tecnologies | c#, .NET 7.0, Asp.NET.Core, MySQL 
 | :rocket: URL         | ainda em desenvolvimento...
 
 
